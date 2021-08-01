@@ -1,4 +1,4 @@
-# Cholesky decomposition requirements test
+# Cholesky decomposition Existence Check
 
 <!-- ABOUT THE PROJECT -->
 
