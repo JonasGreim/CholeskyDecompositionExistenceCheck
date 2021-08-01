@@ -1,4 +1,4 @@
-# Cholesky decomposition Existence Check
+# Cholesky decomposition existence check
 
 <!-- ABOUT THE PROJECT -->
 
