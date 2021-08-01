@@ -14,7 +14,7 @@ Usually you don't comment every line of code, but it was requested that way. I l
 
 
 
-##Installation
+## Installation
  - Install at least Fortran 90
  - Go to the root folder of the project  
  - Compile (Windows)
@@ -26,7 +26,7 @@ Usually you don't comment every line of code, but it was requested that way. I l
    a.exe
   ```
 
-##How to use it
+## How to use it
 
  * Change this variable to the length of your quadratic matrix (Line 3)
    ```sh  
@@ -39,7 +39,7 @@ Usually you don't comment every line of code, but it was requested that way. I l
    For test purposes you can use the matrices: CholeskyNotPossible.txt, CholeskyPossible.txt & 5x5Matrix.txt (last one you have to change the variable to 5) 
  * Compile and run/execute the project
  * The results are now printed out in your command line
-##How it works
+## How it works
 If the matrix is quadratic, symmetric and positiv definit => then there is a Cholesky decomposition.
 
 Test symmetry: 
