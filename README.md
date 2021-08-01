@@ -47,8 +47,8 @@ Test symmetry:
 
 Test positiv definit:
  * via Laplace expansion: 
-   * If Laplace expansion is positiv then the matrix is semi postiv definit
-   * And if Laplace expansion is postiv and the matrix is symmetric then the matrix is postiv definit
+   * If Laplace expansion is greater than 0 then the matrix is semi postiv definit
+   * And if Laplace expansion is is greater than 0 and the matrix is symmetric then the matrix is postiv definit
  
 
 <!-- LICENSE -->
