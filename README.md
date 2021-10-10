@@ -39,6 +39,9 @@ I leave the comments like this because I think it helps a lot if you don't under
 ## How it works
 If the matrix is quadratic, symmetric and positiv definit => then there is a Cholesky decomposition.
 
+Quadratic: 
+ - square matrices are required (there is no test that sort out non-square matrices!)
+
 Test symmetry: 
  - compare the matrix to its own transposition
 
