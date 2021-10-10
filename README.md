@@ -3,15 +3,12 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-I wrote this Fortran code for a university project. It is clearly not the best fortran code out there, 
-but the code works with every quadratic matrices. You can test whether there is Cholesky decomposition or not.
-I am uploading this project because if someone gets a similar task in the following semester, this would help and I have not found a standard solution for this problem via google.
+I wrote this Fortran code for a friend´s university project. It is clearly not the best Fortran code out there, 
+but the code works with every quadratic matrices. You can test whether there is a Cholesky decomposition or not.
+I am uploading this project because if someone gets a similar task in the following semesters, this code could help. Also, I have not found a standard solution for this problem via Google.
 
-
-Usually you don't comment every line of code, but it was requested that way. I leave the comments like this because
- I think it helps a lot if you don´t understand Fortran well.
-
-
+Usually you don't comment every line of code, but it was requested that way. 
+I leave the comments like this because I think it helps a lot if you don't understand Fortran well.
 
 
 ## Installation
@@ -36,7 +33,7 @@ Usually you don't comment every line of code, but it was requested that way. I l
    ```sh  
    open(10,file='CholeskyPossible.txt')
     ```
-   For test purposes you can use the matrices: CholeskyNotPossible.txt, CholeskyPossible.txt & 5x5Matrix.txt (last one you have to change the variable to 5) 
+   For test purposes you can use the matrices: CholeskyNotPossible.txt, CholeskyPossible.txt & 5x5Matrix.txt (with the last one you have to change the variable to 5) 
  * Compile and run/execute the project
  * The results are now printed out in your command line
 ## How it works
